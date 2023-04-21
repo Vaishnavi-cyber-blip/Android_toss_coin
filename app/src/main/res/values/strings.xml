@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tosss</string>
+    <string name="flip">Flip</string>
+    <string name="send">send</string>
+</resources>
